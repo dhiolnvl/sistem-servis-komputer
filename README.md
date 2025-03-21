@@ -1,6 +1,7 @@
-# Sistem Manajemen Servis Komputer Berbasis Desktop
+# Sistem Manajemen Servis Komputer
 
 # Projek Matakuliah Pemrograman Desktop
 
 Jika ingin melihat fitur dan tampilan aplikasi,
-bisa mengunjungi link ini untuk melihat laporan projeknya : https://drive.google.com/file/d/1Nqo7WmOR2pG47iikS9hnZPFrNyoiyPsZ/view?usp=sharing
+bisa mengunjungi link ini untuk melihat laporan dan mencoba aplikasinya : 
+https://bit.ly/4iHvYNi
